@@ -1,0 +1,8 @@
+*.o
+*.obj
+*.exe
+*.out
+physics_sim
+physics_sim.exe
+.vscode/
+.idea/
